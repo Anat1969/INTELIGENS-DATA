@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19T15:10:33.750Z",
+  "updatedAt": "2026-09-19T15:46:47.250Z",
   "merges": [
     {
       "id": "digital-emotional",
@@ -15,6 +15,13 @@
       "combo": "לשונית-מילולית + לוגית-מתמטית + מרחבית-ויזואלית",
       "date": "2026-09-19T15:10:31.936Z",
       "path": "data/library/merges/linguistic-logical-spatial.json"
+    },
+    {
+      "id": "digital-existential",
+      "name": "חושב הגבול",
+      "combo": "דיגיטלית-מערכתית + קיומית-פילוסופית",
+      "date": "2026-09-19T15:46:45.408Z",
+      "path": "data/library/merges/digital-existential.json"
     }
   ],
   "profiles": [
