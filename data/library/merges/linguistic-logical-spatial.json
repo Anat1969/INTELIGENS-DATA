@@ -1,0 +1,26 @@
+{
+  "name": "חושב הגבול",
+  "type": "חשיבה שחיה בין תחומים",
+  "essence": "הדברים המעניינים ביותר קורים בגבולות — שם שאף מומחה לא גר לבד, שם שאין עדיין מילה למה שנוצר. מי שמחזיק שלושה תחומים שאינם בתנועה ממשיכה — יוצר שפה חדשה. כאן הצירוף המדויק הוא לשונית-מילולית, לוגית-מתמטית ומרחבית-ויזואלית, ולכן נקודת המפגש נוצרת בין פואטיקה, מבנה וקומפוזיציה.",
+  "power": "חשיבה בין-תחומית. זיהוי פתרונות שמגיעים ממקום שהמומחה האחד לא חיפש. בפועל מדובר ביכולת לנוע בין שפה, הגיון וחזות בתוך אותה משימה, בלי לאבד את הדיוק של אף אחד מהם.",
+  "roles": [
+    "חוקר",
+    "יזם",
+    "מייסד",
+    "מנהל חדשנות",
+    "מקצועי רב-תחומי"
+  ],
+  "quote": "מומחה יודע הכל על מעט. פולימת יודע מעט על הכל. אתה ביניהם — ולכן רואה דברים ששניהם מפספסים.",
+  "keyQuestion": "מה נעשה אפשרי כאשר לשונית-מילולית, לוגית-מתמטית ומרחבית-ויזואלית פועלות יחד — שאלה שאינה קיימת כלל בתוך שפה, הגיון וחזות בנפרד?",
+  "visualPrompt": "An abstract living space where language, logic, vision fuse into a single dwelling of thought. Light moves through translucent layers of poetics and structure and composition, each surface holding the memory of a different way of knowing. No figures, no text — only architecture made of attention.",
+  "source_ids": [
+    "linguistic",
+    "logical",
+    "spatial"
+  ],
+  "source": "composed",
+  "id": "linguistic-logical-spatial",
+  "created_at": "2026-09-19T15:10:31.936Z",
+  "date": "2026-09-19T15:10:31.936Z",
+  "combo": "לשונית-מילולית + לוגית-מתמטית + מרחבית-ויזואלית"
+}
