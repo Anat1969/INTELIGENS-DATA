@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19T14:22:27.029Z",
+  "updatedAt": "2026-09-19T14:25:04.776Z",
   "merges": [
     {
       "id": "digital-emotional",
@@ -10,7 +10,15 @@
       "path": "data/library/merges/digital-emotional.json"
     }
   ],
-  "profiles": [],
+  "profiles": [
+    {
+      "id": "בודק-20260919-drcf",
+      "name": "פרופיל של בודק",
+      "fillerName": "בודק",
+      "date": "2026-09-19T14:25:02.985Z",
+      "path": "data/library/profiles/בודק-20260919-drcf.json"
+    }
+  ],
   "images": [
     "digital-emotional"
   ]
