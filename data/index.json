@@ -1,7 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19T11:34:00Z",
-  "merges": [],
+  "updatedAt": "2026-09-19T14:19:03.461Z",
+  "merges": [
+    {
+      "id": "digital-emotional",
+      "name": "חושב הגבול",
+      "combo": "דיגיטלית-מערכתית + רגשית",
+      "date": "2026-09-19T14:19:01.707Z",
+      "path": "data/library/merges/digital-emotional.json"
+    }
+  ],
   "profiles": [],
   "images": []
 }
