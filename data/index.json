@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19T16:05:32.540Z",
+  "updatedAt": "2026-09-19T16:06:05.283Z",
   "merges": [
     {
       "id": "digital-emotional",
@@ -40,6 +40,7 @@
     "base-linguistic-persona",
     "base-linguistic-space",
     "base-linguistic-building",
-    "base-existential-persona"
+    "base-existential-persona",
+    "base-existential-space"
   ]
 }
