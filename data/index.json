@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19T23:41:17.668Z",
+  "updatedAt": "2026-09-19T23:41:21.424Z",
   "merges": [
     {
       "id": "digital-emotional",
@@ -60,6 +60,7 @@
     "base-kinesthetic-building",
     "base-interpersonal-persona",
     "base-interpersonal-design",
-    "base-interpersonal-space"
+    "base-interpersonal-space",
+    "base-interpersonal-building"
   ]
 }
