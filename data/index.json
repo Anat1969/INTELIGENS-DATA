@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19T20:30:52.314Z",
+  "updatedAt": "2026-09-19T20:31:10.298Z",
   "merges": [
     {
       "id": "digital-emotional",
@@ -51,6 +51,7 @@
     "base-spatial-building",
     "base-spatial-design",
     "base-musical-persona",
-    "base-musical-design"
+    "base-musical-design",
+    "base-musical-space"
   ]
 }
