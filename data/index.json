@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19T14:25:04.776Z",
+  "updatedAt": "2026-09-19T14:27:18.430Z",
   "merges": [
     {
       "id": "digital-emotional",
@@ -20,6 +20,7 @@
     }
   ],
   "images": [
-    "digital-emotional"
+    "digital-emotional",
+    "profile-בודק-20260919-drcf"
   ]
 }
