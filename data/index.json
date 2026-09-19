@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19T15:51:59.761Z",
+  "updatedAt": "2026-09-19T15:52:30.132Z",
   "merges": [
     {
       "id": "digital-emotional",
@@ -38,6 +38,7 @@
     "profile-בודק-20260919-drcf",
     "interpersonal-spatial",
     "base-linguistic-persona",
-    "base-linguistic-space"
+    "base-linguistic-space",
+    "base-linguistic-building"
   ]
 }
