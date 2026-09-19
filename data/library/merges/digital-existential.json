@@ -1,0 +1,25 @@
+{
+  "name": "חושב הגבול",
+  "type": "חשיבה שחיה בין תחומים",
+  "essence": "הדברים המעניינים ביותר קורים בגבולות — שם שאף מומחה לא גר לבד, שם שאין עדיין מילה למה שנוצר. מי שמחזיק שלושה תחומים שאינם בתנועה ממשיכה — יוצר שפה חדשה. כאן הצירוף המדויק הוא דיגיטלית-מערכתית וקיומית-פילוסופית, ולכן נקודת המפגש נוצרת בין לוגיקה ומשמעות.",
+  "power": "חשיבה בין-תחומית. זיהוי פתרונות שמגיעים ממקום שהמומחה האחד לא חיפש. בפועל מדובר ביכולת לנוע בין טכנולוגיה ועומק בתוך אותה משימה, בלי לאבד את הדיוק של אף אחד מהם.",
+  "roles": [
+    "חוקר",
+    "יזם",
+    "מייסד",
+    "מנהל חדשנות",
+    "מקצועי רב-תחומי"
+  ],
+  "quote": "מומחה יודע הכל על מעט. פולימת יודע מעט על הכל. אתה ביניהם — ולכן רואה דברים ששניהם מפספסים.",
+  "keyQuestion": "מה נעשה אפשרי כאשר דיגיטלית-מערכתית וקיומית-פילוסופית פועלות יחד — שאלה שאינה קיימת כלל בתוך טכנולוגיה ועומק בנפרד?",
+  "visualPrompt": "An abstract living space where technology, depth fuse into a single dwelling of thought. Light moves through translucent layers of logic and meaning, each surface holding the memory of a different way of knowing. No figures, no text — only architecture made of attention.",
+  "source_ids": [
+    "digital",
+    "existential"
+  ],
+  "source": "composed",
+  "id": "digital-existential",
+  "created_at": "2026-09-19T15:46:45.408Z",
+  "date": "2026-09-19T15:46:45.408Z",
+  "combo": "דיגיטלית-מערכתית + קיומית-פילוסופית"
+}
