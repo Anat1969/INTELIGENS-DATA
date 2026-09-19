@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19T14:19:03.461Z",
+  "updatedAt": "2026-09-19T14:22:27.029Z",
   "merges": [
     {
       "id": "digital-emotional",
@@ -11,5 +11,7 @@
     }
   ],
   "profiles": [],
-  "images": []
+  "images": [
+    "digital-emotional"
+  ]
 }
