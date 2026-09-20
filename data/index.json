@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20T08:03:40.348Z",
+  "updatedAt": "2026-09-20T08:07:44.106Z",
   "merges": [
     {
       "id": "digital-emotional",
@@ -22,6 +22,13 @@
       "combo": "דיגיטלית-מערכתית + קיומית-פילוסופית",
       "date": "2026-09-19T15:46:45.408Z",
       "path": "data/library/merges/digital-existential.json"
+    },
+    {
+      "id": "emotional-systems",
+      "name": "מזיגת תהודה ומינוף",
+      "combo": "רגשית + מערכתית-סיבתית",
+      "date": "2026-09-20T08:07:42.256Z",
+      "path": "data/library/merges/emotional-systems.json"
     }
   ],
   "profiles": [
