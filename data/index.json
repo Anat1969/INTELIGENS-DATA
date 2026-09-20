@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20T08:36:05.797Z",
+  "updatedAt": "2026-09-20T08:52:58.871Z",
   "merges": [
     {
       "id": "digital-emotional",
@@ -81,6 +81,7 @@
     "emotional-systems-design",
     "emotional-systems-space",
     "emotional-systems-building",
-    "emotional-systems-cover"
+    "emotional-systems-cover",
+    "digital-existential-cover"
   ]
 }
