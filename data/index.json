@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20T07:07:25.910Z",
+  "updatedAt": "2026-09-20T07:12:54.268Z",
   "merges": [
     {
       "id": "digital-emotional",
@@ -62,6 +62,7 @@
     "base-interpersonal-design",
     "base-interpersonal-space",
     "base-interpersonal-building",
-    "base-intrapersonal-building"
+    "base-intrapersonal-building",
+    "base-naturalist-persona"
   ]
 }
