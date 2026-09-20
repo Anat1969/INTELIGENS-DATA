@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20T08:07:44.106Z",
+  "updatedAt": "2026-09-20T08:14:47.466Z",
   "merges": [
     {
       "id": "digital-emotional",
@@ -76,6 +76,7 @@
     "base-systems-persona",
     "base-systems-design",
     "base-systems-space",
-    "base-systems-building"
+    "base-systems-building",
+    "emotional-systems-persona"
   ]
 }
