@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-01T09:32:07.051Z",
+  "updatedAt": "2026-10-01T09:32:33.166Z",
   "merges": [
     {
       "id": "digital-emotional",
@@ -100,6 +100,7 @@
     "digital-emotional-cover",
     "linguistic-logical-spatial-cover",
     "digital-kinesthetic-cover",
-    "digital-kinesthetic-persona"
+    "digital-kinesthetic-persona",
+    "digital-kinesthetic-design"
   ]
 }
