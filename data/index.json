@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-01T09:10:31.948Z",
+  "updatedAt": "2026-10-01T09:17:25.752Z",
   "merges": [
     {
       "id": "digital-emotional",
@@ -36,6 +36,13 @@
       "combo": "מוזיקלית-קצבית + מרחבית-ויזואלית",
       "date": "2026-10-01T09:10:29.208Z",
       "path": "data/library/merges/musical-spatial.json"
+    },
+    {
+      "id": "digital-kinesthetic",
+      "name": "שדה לוגיקה–מגע",
+      "combo": "דיגיטלית-מערכתית + גופנית-קינסתטית",
+      "date": "2026-10-01T09:17:23.717Z",
+      "path": "data/library/merges/digital-kinesthetic.json"
     }
   ],
   "profiles": [
