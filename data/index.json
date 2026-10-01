@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20T08:55:06.822Z",
+  "updatedAt": "2026-10-01T09:10:31.948Z",
   "merges": [
     {
       "id": "digital-emotional",
@@ -29,6 +29,13 @@
       "combo": "רגשית + מערכתית-סיבתית",
       "date": "2026-09-20T08:07:42.256Z",
       "path": "data/library/merges/emotional-systems.json"
+    },
+    {
+      "id": "musical-spatial",
+      "name": "בין תבנית לקומפוזיציה",
+      "combo": "מוזיקלית-קצבית + מרחבית-ויזואלית",
+      "date": "2026-10-01T09:10:29.208Z",
+      "path": "data/library/merges/musical-spatial.json"
     }
   ],
   "profiles": [
